@@ -131,3 +131,6 @@ int main(){
 
 # Reference
 1.  meeting 的 專案<br/>
+2.  暗角參考 http://stackoverflow.com/questions/22654770/creating-vignette-filter-in-opencv
+3.  暗角wiki https://en.wikipedia.org/wiki/Vignetting
+3.  圖片出處 http://i.imgur.com/Wb4c11s.jpg
