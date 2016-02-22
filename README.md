@@ -123,7 +123,7 @@ int main(){
 * 三原色光模式
 * 極限定律
 
-# Disparity result
+# ㄐesult
 原圖:<br/>
 <img src="image/view.jpg" ><br/>
 暗角顯示出的結果:<br/>
